@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @vedanshsahu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning scikit-learn
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 reach me at vedanshsahu@outlook.com
 
