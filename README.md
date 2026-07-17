@@ -1,9 +1,6 @@
-<img width="100%" src="banner.jpeg" alt="banner.jpeg">
-
-### About Me
-- 👋 Hi, I’m @vedanshsahu
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning scikit-learn
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 reach me at vedanshsahu@outlook.com
+<a href="https://github.com/vedanshsahu/vedanshsahu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedanshsahu/vedanshsahu/main/dark_mode.svg">
+    <img alt="Vedansh Sahu's GitHub Profile README" src="https://raw.githubusercontent.com/vedanshsahu/vedanshsahu/main/light_mode.svg">
+  </picture>
+</a>
